@@ -9,7 +9,7 @@ Created a Power BI dashboard to enhance operational efficiency and provide actio
 - Number of Patients Referred
 
 ## Dataset Used
-- <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/tree/main/Datasets">Dataset</a>
+- <a href="[https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/tree/main/Datasets](https://github.com/Nawal-U/Hospital-Emergency-Dashboard-PowerBI/blob/main/Hospital%20ER_Data.csv)">Dataset</a>
 
 ## Dashboard
 - <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/blob/main/Hospitality_PowerBI_Dashboard.png">Dashboard</a>
